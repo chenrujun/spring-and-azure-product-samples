@@ -89,3 +89,7 @@ The following repositories are grouped by [Spring projects](https://spring.io/pr
 - Spring Vault
 - Spring Web Flow
 - Spring Web Services
+
+# Create a New Sample Repository
+
+If you want to create a new sample repository, please use this template repository: [spring-and-azure-product-sample-template](https://github.com/chenrujun/spring-and-azure-product-sample-template). You can refer to [Creating a repository from a template](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) to learn how to achieve that.
