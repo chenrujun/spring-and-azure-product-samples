@@ -10,7 +10,7 @@ This repository is aimed to help you find required Spring on Azure sample projec
 
 # Samples
 
-# Samples Repositories Grouped by Azure Projects
+# Samples Repositories Grouped by Azure Products
 
 The following repositories are grouped by [Azure produces](https://azure.microsoft.com/en-us/services/). If you can't find required sample by Azure products, you can create an issue in current repository to ask for help.
 
