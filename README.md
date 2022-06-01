@@ -12,7 +12,7 @@ This repository is aimed to help you find required Spring on Azure sample projec
 
 # Samples Repositories Grouped by Azure Products
 
-The following repositories are grouped by [Azure produces](https://azure.microsoft.com/en-us/services/). If you can't find required sample by Azure products, you can create an issue in current repository to ask for help.
+The following repositories are grouped by [Azure products](https://azure.microsoft.com/en-us/services/). If you can't find required sample by Azure products, you can create an issue in current repository to ask for help.
 
 - AI + machine learning
 - Analytics
@@ -20,7 +20,10 @@ The following repositories are grouped by [Azure produces](https://azure.microso
 - Compute
   + App Service
   + Azure Spring Cloud
+    - [spring-and-azure-spring-cloud-samples](.) . This is (fake) link to a github repository named `spring-and-azure-spring-cloud-samples`. In the repository, there are many samples, customer can study a specific feature instead of learn all features. Provide learnning path if there is dependency relationship between features. Refer to [spring-and-azure-product-sample-template](https://github.com/chenrujun/spring-and-azure-product-sample-template) to get more information about learnning path and other requirement about this repository.
+    - [spring-and-azure-spring-cloud-end-to-end-sample](.) customer can study all feature from zero to product-ready
   + Azure Kubernetes Service (AKS)
+    - [spring-and-azure-kubernetes-service-samples](.)
   + Azure Functions
 - Containers
   + App Configuration
@@ -32,9 +35,11 @@ The following repositories are grouped by [Azure produces](https://azure.microso
 - Hybrid + multicloud
 - Identity
   + Azure Active Directory (Azure AD)
+    - [spring-and-azure-active-directory-samples](.)
 - Integration
   + Event Grid
   + Service Bus
+    - [spring-and-azure-service-bus-samples](.)
 - Internet of Things
   + Event Grid
 - Management and governance
@@ -45,7 +50,10 @@ The following repositories are grouped by [Azure produces](https://azure.microso
 - Networking
 - Security
   + App Configuration
+    - [spring-and-azure-app-configuration-samples](.)
   + Key Vault
+    - [spring-and-azure-keyvault-samples](.) (repo)
+      - [spring-and-azure-keyvault-secrets-samples](.) (folder)
   + Azure Active Directory (Azure AD)
 - Storage
   + Azure Files
